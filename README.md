@@ -46,9 +46,3 @@ Goodbye
 ## Technologies Used
 
 *   Python 3
-
-## Future Enhancements (Optional)
-
-*   Handle uppercase letters.
-*   Allow different alphabets (e.g., Cyrillic, Greek).
-*   Implement a more robust user interface.
